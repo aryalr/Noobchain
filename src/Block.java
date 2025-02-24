@@ -23,10 +23,6 @@ public class Block {
         return calculatedHash;
     }
 
-    public String getData(){
-        return data;
-    }
-
 }
 
 
