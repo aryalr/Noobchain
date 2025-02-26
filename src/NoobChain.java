@@ -3,6 +3,7 @@ import com.google.gson.GsonBuilder;
 
 public class NoobChain {
 
+    // A method to check that the blockchain is valid
     public static Boolean isChainValid() {
 
         Block currentBlock;
